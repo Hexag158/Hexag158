@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<b>-> 🔭 I'm Nguyen Minh Nghia, currently studying at Swinburne University of Technology - Vietnam. </b> </br> 
+<b>🔭 I'm Nguyen Minh Nghia, currently studying at Swinburne University of Technology - Vietnam. </b>
 
-<b>-> ✨ Here are some of the things you'll find on my GitHub page: </b>
+<b>✨ Here are some of the things you'll find on my GitHub page: </b>
 - A list of repositories </br> 
 - Brief information on projects </br> 
 - My contact information </br>
 
-<b>-> 📫 How to reach me: </b>
+<b>📫 How to reach me: </b>
 <div id="badges">
   <a href="www.linkedin.com/in/nghianm158">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
