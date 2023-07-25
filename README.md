@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<b>-> 🔭 I'm Nguyen Minh Nghia, currently studying at Swinburne University of Technology - Vietnam. </b> 
-<b>-> Here are some of the things you'll find on my GitHub page: </b> 
+<b>-> 🔭 I'm Nguyen Minh Nghia, currently studying at Swinburne University of Technology - Vietnam. </b> </br> 
+<b>-> Here are some of the things you'll find on my GitHub page: </b> </br> 
 - A list of repositories 
 - Brief information on projects 
 - My contact information
