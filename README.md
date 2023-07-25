@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <b>📫 How to reach me: </b>
 <div id="badges">
-  <a href="www.linkedin.com/in/nghianm158">
+  <a href="https://www.linkedin.com/in/nghianm158">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:nghianm1508@gmail.com">
