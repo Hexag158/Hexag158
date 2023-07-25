@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <b>-> 🔭 I'm Nguyen Minh Nghia, currently studying at Swinburne University of Technology - Vietnam. </b> </br> 
-<b>-> Here are some of the things you'll find on my GitHub page: </b> </br> 
-- A list of repositories 
-- Brief information on projects 
-- My contact information
+<b>-> ✨ Here are some of the things you'll find on my GitHub page: </b>
+- A list of repositories </br> 
+- Brief information on projects </br> 
+- My contact information </br> 
 <b>-> 📫 How to reach me: </b> 
 <div id="badges">
   <a href="www.linkedin.com/in/nghianm158">
