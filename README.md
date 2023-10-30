@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <b>🔭 I'm Nguyen Minh Nghia, currently studying at Swinburne University of Technology - Vietnam. </b>
 
-<b>✨ Here are some of the things you'll find on my GitHub page: </b>
+<b>✨ Here are some of the things you may find on my GitHub page: </b>
 - A list of repositories </br> 
 - Brief information on projects </br> 
 - My contact information </br>
